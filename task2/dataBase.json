@@ -1,0 +1,212 @@
+{
+  "A": [
+    {
+      "status": true,
+      "lot_id": "A1",
+      "car": {
+        "number": "B 1232 UYE",
+        "model": "VW"
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "A2",
+      "car": {
+        "number": "E 6512 HJY",
+        "model": "kijang"
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "A3",
+      "car": {
+        "number": "C 1297 JSD",
+        "model": "Honda"
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "A4",
+      "car": {
+        "number": "B 1234 POI",
+        "model": "VOLVO"
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "A5",
+      "car": {
+        "number": "E 2341 KIJ",
+        "model": "Suzuki"
+      }
+    }
+  ],
+  "B": [
+    {
+      "status": false,
+      "lot_id": "B1",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "B2",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "B3",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "B4",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "B5",
+      "car": {
+        "number": "B 1234 POI",
+        "model": "VOLVO"
+      }
+    }
+  ],
+  "C": [
+    {
+      "status": true,
+      "lot_id": "C1",
+      "car": {
+        "number": "C 1231 HYS",
+        "model": "VOLVO"
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "C2",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "C3",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "C4",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "C5",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    }
+  ],
+  "D": [
+    {
+      "status": true,
+      "lot_id": "D1",
+      "car": {
+        "number": "D 1287 YUY",
+        "model": "Suzuki"
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "D2",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "D3",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "D4",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "D5",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    }
+  ],
+  "E": [
+    {
+      "status": false,
+      "lot_id": "E1",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "E2",
+      "car": {
+        "number": "B 1278 ATE",
+        "model": "Volvo"
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "E3",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": false,
+      "lot_id": "E4",
+      "car": {
+        "number": "",
+        "model": ""
+      }
+    },
+    {
+      "status": true,
+      "lot_id": "E5",
+      "car": {
+        "number": "A 9982 JUA",
+        "model": "BMW"
+      }
+    }
+  ]
+}
